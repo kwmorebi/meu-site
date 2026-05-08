@@ -20,7 +20,7 @@ Vá para esse diretório: 'cd meu-site'
 Dê o comando 'vagrant up' para iniciar a máquina
 
 ## Acessar site
-http://192.168.56.10 ou http://localhost:8080
+http://192.168.0.2 ou http://localhost:8080
 
 ## Subir, Recarregar e Destruir a VM
 vagrant up
